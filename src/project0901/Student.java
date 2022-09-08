@@ -19,6 +19,9 @@ public class Student {
 		// sql문 입력
 			String sql = "select * from student";
 			
+			
+			
+			
 		// 예외 처리
 		try {
 			// JDBC 드라이버 로드
